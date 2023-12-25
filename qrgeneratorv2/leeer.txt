@@ -1,0 +1,60 @@
+······················QR_generator····························
+
+
+
+
+
+
+/ _ \|  _ \           / ___| ____| \ | | ____|  _ \    / \|_   _/ _ \|  _ \ 
+| | | | |_) |         | |  _|  _| |  \| |  _| | |_) |  / _ \ | || | | | |_) |
+| |_| |  _ <          | |_| | |___| |\  | |___|  _ <  / ___ \| || |_| |  _ < 
+ \__\_\_| \_\  _____   \____|_____|_| \_|_____|_| \_\/_/   \_\_| \___/|_| \_\
+              |_____|      
+
+
+
+
+
+
+
+{
+    lea esto con atencion
+}
+
+
+=> QR generator  es una herramineta simple en este caso el v1 y v2 
+el codex es totalmente free, es decir que si sabe de python le podras dar tu mejoras 
+lo hago simple para que prueben y hagan sus QR a sus gustos 
+
+
+=> en la zona de add.data (v2) o url (v1),  cambia el texto al que tu quieras esta entre ("") [string]
+en el fill_color y back_color  tambine ese esta en el (v2) quiza al leer esto aun no se lanzo 
+
+
+
+=> v2 se lanza el 31 de diciembr,  ya estoy planeado para el v3 que sera mas amplio y multifuncion desde 
+la terminal, sera el 2024 no se que fecha pero lo dire cundo este listo 
+
+=> sobre  los paqutes en python 
+{
+ 
+ pyfiglet
+ qrcode
+ datatime 
+ time 
+
+[eso son los paqutes que debes instalar y que se requiere tambien le voy agregar requiriments.txt para que lo installen 
+si no funcion hazlo manualmente o copia el codigo y en la terminal de vscode pon pip install (nombre del paquete)]
+
+}
+
+=> !!! Nuevo se agrego input para cambiar el valor de add.date [si no funcion colocalo manualmente pero espero que no falle ]
+tambien se agrego eliminador de png al ejeuctar a la primera es decir que antes de almacenar imagenes de qr elimina  anteriores creaciones 
+mini jueo de plabras debes buscar las palabras correctas jejej 
+
+
+
+
+creado por : H4_ghosty 
+sintaxis: python
+plataforma : Github 
